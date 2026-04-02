@@ -44,6 +44,7 @@ Enabled better business decision-making through data visualization
 Retail-Sales-Dashboard/
 ├── Dataset/
 ├── PowerBI File/
+├── Dashboard Screenshot/
 └── README.md
 
 💡 Learning Outcomes
