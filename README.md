@@ -9,13 +9,13 @@ The goal of this project is to analyze sales performance across different produc
 📁 Dataset Information
 
 The dataset includes:
-Order ID
-Date
-Product Category
-Product Name
-Units Sold
-Unit Price
-Total Sale
+Order ID,
+Date,
+Product Category,
+Product Name,
+Units Sold,
+Unit Price,
+Total Sale,
 Customer Region
 
 🛠️ Tools Used
@@ -38,14 +38,6 @@ Identified high-performing product categories
 Analyzed regional sales distribution
 Discovered sales trends and seasonal patterns
 Enabled better business decision-making through data visualization
-
-📂 Project Structure
-
-Retail-Sales-Dashboard/
-├── Dataset/
-├── PowerBI File/
-├── Dashboard Screenshot/
-└── README.md
 
 💡 Learning Outcomes
 
