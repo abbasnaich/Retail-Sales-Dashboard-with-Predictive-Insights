@@ -1,0 +1,501 @@
+Order ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Sale,Customer Region
+3b99d765-c6ee-4c2a-a5e2-71dd3b87f984,2025-02-07,Clothing,Jeans,5,5.97,29.85,East
+8a58a346-a90e-4d9f-8861-edb1cdd8aaa2,2025-03-08,Home Appliances,Blender,9,404.6,3641.4,East
+4350f7fd-91f6-4d1c-af57-ef9fb7220bb8,2024-11-30,Books,Comics,9,282.22,2539.98,East
+fdfc8902-4e9a-43c9-b20d-8ee293426182,2025-04-15,Books,Science,4,286.5,1146.0,West
+97f485d4-e08a-44df-9f74-fbf6763c793f,2025-02-28,Books,Fiction,5,318.38,1591.9,North
+3006adf7-9ac7-4605-acd3-94228a0e3273,2025-01-09,Clothing,Jeans,7,204.24,1429.68,South
+5ef49bce-9be8-48e3-85e4-91fd552404bf,2025-01-07,Home Appliances,Microwave,4,275.48,1101.92,North
+81684099-f18b-4446-a476-e2e6d94f2afa,2025-04-18,Toys,Action Figure,2,380.34,760.68,East
+7d2b77f1-d815-4967-bf2e-a2fcf64daeab,2025-03-19,Books,Science,8,76.5,612.0,East
+5d12cfa9-7122-4df0-bd6e-027bdae42a52,2025-01-22,Clothing,Jeans,10,18.01,180.1,East
+67a0b76e-91ac-4f4b-a017-c357331ee5af,2024-12-03,Toys,Action Figure,9,494.25,4448.25,East
+499d9efe-22fb-4b44-acee-8328c671d38c,2025-03-18,Toys,Puzzle,6,184.38,1106.28,South
+33643c75-a603-43ba-b29d-a1c3ac2d21b5,2025-03-31,Home Appliances,Washing Machine,7,485.08,3395.56,East
+d598d6da-7b6d-4d93-9aea-1f7170d26dfa,2025-02-25,Home Appliances,Microwave,8,481.89,3855.12,East
+ce377887-b307-4cf6-9e6c-b105307d2e5f,2025-04-20,Toys,Puzzle,9,39.76,357.84,East
+ec353415-d404-482b-ac2d-7cfdf272657b,2025-03-25,Electronics,Smartphone,4,92.8,371.2,South
+94c5ce39-7ebc-48b6-b839-80fbf4d78a5a,2025-04-20,Electronics,Camera,1,470.42,470.42,East
+e243c2e4-f042-4c5c-a883-f146e35d66e5,2025-03-04,Books,Comics,3,467.2,1401.6,East
+474e9faf-2941-4631-87a3-309950946f1d,2024-10-31,Books,History,8,179.59,1436.72,North
+75ffd9c4-0bba-44cf-819f-30dbc9056310,2025-03-27,Toys,Lego Set,7,430.17,3011.19,North
+992d2b84-fc9b-46ac-973f-98078d361ef4,2024-12-18,Toys,Lego Set,9,147.45,1327.05,East
+e0d4a034-157a-4a34-91a7-bf69c4fca11d,2025-03-07,Home Appliances,Blender,10,182.61,1826.1,South
+d2d36c32-aca5-4f25-b0f6-15f8bf99bbdd,2025-04-18,Toys,Doll,6,488.31,2929.86,North
+069eec5d-76dc-4055-9f9c-3889678897a7,2025-01-03,Books,Science,5,223.95,1119.75,North
+c270fbba-ca4d-4297-b723-617ede24c719,2025-04-18,Electronics,Headphones,2,406.56,813.12,South
+66b6bf4e-d8f6-44fc-9499-1d5b1d82c119,2024-12-04,Electronics,Laptop,8,13.25,106.0,West
+92931729-2c97-4f10-9444-5e12403115b5,2025-04-08,Home Appliances,Blender,4,14.16,56.64,West
+d62aa24d-15f9-401a-aa34-d880170e3e69,2025-03-10,Books,History,9,409.44,3684.96,North
+219c5e36-e0bb-4d77-aae6-8b0fc7b7da89,2024-12-13,Home Appliances,Microwave,7,16.69,116.83,West
+7bc9b8a2-dfaa-478b-9b62-98a0e87b8511,2024-11-10,Clothing,Jeans,3,289.37,868.11,South
+41137208-cda0-412f-9b30-7eaf92fbebb1,2025-01-06,Electronics,Camera,8,226.24,1809.92,South
+c7eca6e8-2168-41e3-a4f7-9646afccbb13,2024-12-16,Electronics,Smartphone,1,212.7,212.7,East
+34e2c85b-c73c-4993-b6f7-f6cab4ba0516,2024-12-25,Clothing,T-Shirt,6,104.13,624.78,East
+096a1ff2-7e63-4dd5-956d-9fbc801cf9e4,2024-11-07,Toys,Action Figure,5,262.26,1311.3,North
+41a76679-6f79-4f26-be18-886654656ad3,2024-12-07,Toys,Puzzle,6,268.0,1608.0,South
+69b57ad8-f129-45ec-8527-2b92614c362a,2024-11-26,Books,Fiction,8,415.7,3325.6,West
+1a853e21-9f74-4626-812f-89c324a309cc,2025-02-23,Books,History,4,284.61,1138.44,West
+d4ac88b2-6bd6-43cb-bb2c-450849ad8e8e,2025-03-25,Toys,Action Figure,6,176.75,1060.5,East
+0b2ede84-0a9a-411a-b494-c3a5302c258b,2025-03-08,Electronics,Headphones,6,41.22,247.32,South
+028fcd26-6793-4897-9d2a-b431051fc28c,2025-03-14,Books,Science,3,37.55,112.65,South
+afc2c5a3-1269-46f6-b54c-7ae550031c85,2025-04-17,Toys,Doll,4,94.74,378.96,East
+a92c203e-5dc0-4be7-b420-aa17d83d6740,2025-01-28,Toys,Lego Set,10,210.48,2104.8,East
+7ce1379e-471a-40a9-be6c-53a0d4665d65,2024-12-15,Electronics,Laptop,6,196.69,1180.14,East
+0ac80382-949b-4af5-b4b1-cd29ba8b2357,2024-11-10,Clothing,Shoes,2,288.4,576.8,South
+aa8dfa90-f4e3-47df-8535-72acbbc4df19,2025-02-07,Books,History,8,461.59,3692.72,East
+c1314f03-dfcf-44db-bc9a-dec04e59211b,2024-12-04,Toys,Puzzle,9,286.56,2579.04,West
+2f3832f0-cf6c-4741-aea2-f6f621031bf7,2025-01-26,Clothing,Jacket,5,68.76,343.8,West
+da562ab9-df87-489a-b991-ce10e215eaef,2025-01-31,Clothing,T-Shirt,3,145.64,436.92,East
+9c9b83b9-0229-4762-ad48-e4a386ca5b7b,2024-11-28,Electronics,Headphones,2,75.45,150.9,East
+1e8afe5b-7930-4f51-ab90-e4326488ed71,2024-12-08,Books,History,5,29.9,149.5,West
+48ebeb90-f7e9-4d10-82d0-c2e397bdeb7c,2024-12-15,Home Appliances,Blender,6,301.39,1808.34,West
+5de7d75b-43fb-4fe9-b39a-726c5c656d80,2025-04-17,Electronics,Camera,10,165.94,1659.4,North
+f1d2ea10-110b-4673-ae9b-b4e954f5a71f,2025-01-06,Toys,Puzzle,9,247.57,2228.13,West
+bc792f83-fb89-4af7-b708-c8f5a8724b0e,2025-04-11,Clothing,Shoes,1,36.73,36.73,West
+c30782c8-fcdd-48de-b6ed-ce104fe3acc9,2025-01-14,Books,Fiction,5,199.68,998.4,North
+a784403c-4661-4d02-970c-ab95592cd525,2024-11-04,Home Appliances,Refrigerator,6,103.24,619.44,South
+f3656725-49ef-48d5-ba10-a5300c8970b2,2025-03-28,Electronics,Laptop,7,262.19,1835.33,South
+9a1145e8-fbae-49c6-b90b-a6303808f186,2025-02-14,Clothing,Jeans,3,339.38,1018.14,East
+f1113a8d-48bd-4983-9d72-1761576b7f4e,2025-03-31,Electronics,Camera,4,299.6,1198.4,West
+0de9bc27-889f-4273-ae9f-39848d3380ee,2024-12-03,Toys,Lego Set,6,42.94,257.64,East
+12d8a30d-b81f-4c93-8fb5-d1fdbb157267,2025-03-01,Toys,Lego Set,10,364.65,3646.5,East
+d22bb68d-cf10-4cf0-b827-890bf370bf20,2024-11-26,Toys,Action Figure,3,449.8,1349.4,West
+d8d2e865-aff5-4131-8abb-4cb295e13131,2025-04-28,Electronics,Smartphone,8,51.46,411.68,North
+e92b0ab7-e079-4f0a-869b-61a0d592f094,2024-12-31,Toys,Doll,6,476.4,2858.4,East
+81343c45-f3ea-4c38-8a7e-478f6e475753,2025-02-04,Clothing,Shoes,10,313.5,3135.0,South
+82425acb-c37d-4628-b808-715d8ed05423,2025-03-09,Books,Fiction,5,12.52,62.6,South
+2e33566f-9a80-4910-86d6-7b6ddb753dff,2025-01-01,Clothing,Jeans,6,301.07,1806.42,East
+5e8d4a4b-bac5-41f1-8cf8-c0c6422e44fe,2025-01-29,Toys,Puzzle,4,7.21,28.84,West
+9f7f4143-34d8-472d-aef1-9e41281c1f45,2025-03-30,Electronics,Camera,7,312.93,2190.51,East
+78ef3b71-4f89-4006-9e9b-1522ac79e821,2025-03-15,Books,Comics,1,152.95,152.95,West
+063323d3-5830-4a20-a55b-054d38e2c3f4,2025-02-16,Clothing,Jeans,6,139.23,835.38,South
+207a99f9-f3a1-4c29-9eab-fd15f2146715,2025-03-29,Toys,Doll,3,374.63,1123.89,East
+2607ca62-9132-477b-b69d-5250233d30fc,2025-02-16,Home Appliances,Washing Machine,5,189.38,946.9,South
+738e44f0-3a39-4ac3-86c8-e6e6e3441864,2025-01-20,Clothing,T-Shirt,8,423.92,3391.36,North
+562e6625-68c1-477d-b6a9-dc3e71dc3029,2025-03-24,Books,Comics,4,374.9,1499.6,South
+2780ce0d-d685-45f8-b0db-d47508bb115a,2025-01-28,Toys,Action Figure,4,203.65,814.6,West
+113a37b9-ea59-47e1-a213-68176381eb40,2025-04-25,Home Appliances,Blender,7,401.74,2812.18,West
+b49f1fc7-5e04-4b08-819f-4f74ba643b97,2024-12-27,Toys,Puzzle,6,324.67,1948.02,East
+747818c8-069d-4f90-974a-0b89bcb3c950,2025-02-22,Books,History,5,37.9,189.5,North
+db0b4068-8ebe-4b7c-83dc-8fd436b61be0,2025-04-16,Toys,Doll,2,378.89,757.78,West
+ca65c96b-eacb-40c5-a741-5ffc62978d0d,2025-03-27,Toys,Action Figure,2,455.25,910.5,West
+c92dc7dc-af14-48d1-90db-51132bc5bdb0,2024-11-15,Clothing,Jeans,7,227.48,1592.36,North
+bb6cfd31-5d29-473e-9c1c-fd66688143b5,2025-03-04,Clothing,Jeans,6,325.78,1954.68,West
+8ddeab4b-d7ff-45fb-aba7-c3ebf906f0ab,2025-02-27,Home Appliances,Washing Machine,1,194.55,194.55,West
+df6634ca-48b8-4966-8e0b-a410c8bb2fbb,2024-11-08,Toys,Puzzle,1,84.03,84.03,South
+572b62aa-42b6-48a7-8ab0-c8cee666a912,2025-02-22,Books,Science,6,136.71,820.26,East
+426d34af-fa78-49e4-82c8-0f412c24e4c4,2025-03-01,Home Appliances,Refrigerator,2,23.52,47.04,North
+e12970ac-4af0-433c-8050-61d53c83db03,2024-12-28,Books,Fiction,10,278.38,2783.8,South
+6e4bdb06-58ec-480c-bc6e-922baf431d9a,2024-12-11,Toys,Lego Set,4,288.19,1152.76,East
+0dc2e41a-cad1-4526-9018-501dea090eb2,2025-01-11,Toys,Puzzle,6,257.81,1546.86,East
+7cb9b280-9684-4ba6-91b6-6282b4582fe5,2025-02-18,Toys,Puzzle,9,335.9,3023.1,East
+d22d5276-a74d-49d1-935a-403f4ffa2bcd,2024-11-05,Books,Comics,5,429.5,2147.5,West
+9bb2ae81-2ba7-4ab0-b8de-6fb165e02552,2024-11-01,Home Appliances,Washing Machine,4,343.42,1373.68,East
+b5677caf-99b0-4d81-9310-cba37b3c2287,2025-02-12,Home Appliances,Microwave,10,136.73,1367.3,West
+7179f22c-858b-48e5-9eef-2ae13c832892,2024-12-29,Clothing,Jacket,2,252.2,504.4,East
+43294ca1-5b93-42ec-b201-b1450be7c337,2024-11-16,Electronics,Camera,8,99.76,798.08,South
+0026d7df-fbad-4739-849c-ab6df397c1c3,2024-10-30,Electronics,Laptop,3,76.15,228.45,West
+5d93a4b9-327a-4ac8-bfe9-63df7b9f4642,2025-04-16,Toys,Action Figure,6,321.59,1929.54,West
+07fcefb7-ddac-4c22-8ec2-dafa37776e5a,2025-04-26,Books,Science,6,366.51,2199.06,East
+bf47b82d-a1d2-4b43-8a24-01931bc98082,2024-11-06,Books,History,7,92.85,649.95,North
+e21a4f35-9694-4fdd-a930-29635102e8fb,2024-12-18,Electronics,Laptop,3,216.73,650.19,West
+2f8cf019-7cdc-4dd4-9412-b682b8d470c5,2025-02-22,Electronics,Camera,8,407.11,3256.88,East
+468a43bf-2acd-47c6-8473-4c1dca9b03b1,2025-03-31,Electronics,Smartphone,1,321.97,321.97,North
+2c6085c3-46c7-46fc-b46b-8187d76fe67f,2025-02-11,Toys,Lego Set,5,147.52,737.6,North
+4a915b58-ebe6-4bfe-b40f-e28787a7249f,2025-02-20,Books,Fiction,4,33.0,132.0,East
+7aa9fec4-be0f-431c-9285-d497c4499653,2025-04-23,Home Appliances,Microwave,10,248.4,2484.0,South
+7fca4553-c296-470c-b8ea-957d422c5da8,2024-11-12,Books,Science,7,441.57,3090.99,East
+b39f5fe5-503a-4a9e-984d-62cbcbee9726,2024-11-03,Home Appliances,Microwave,3,252.77,758.31,North
+d1c9c1f4-a3a2-4daf-b7d6-dc4ccb5bde29,2025-01-27,Toys,Lego Set,4,65.0,260.0,West
+c58f645c-2f80-4fe8-8dd1-7fe0f52a28fe,2025-02-28,Electronics,Smartphone,2,147.11,294.22,North
+c99922c8-3a5a-478d-aac0-23dee676e2fc,2024-11-22,Electronics,Camera,8,438.38,3507.04,North
+ede61817-2f96-4da9-9472-d7284c4a97e1,2025-03-05,Home Appliances,Washing Machine,4,87.91,351.64,North
+36b114f3-4a2f-4ba1-8e27-cf9d2d722ad8,2024-12-11,Home Appliances,Refrigerator,5,187.96,939.8,South
+b7947338-a192-497a-9d10-02dbd360534a,2025-03-12,Clothing,Jacket,4,108.32,433.28,South
+f1102aad-588b-4d2f-9192-9a9e4a52d3bc,2025-02-06,Books,Science,9,312.51,2812.59,East
+b2911a51-18cf-4d74-bebf-987e9b485883,2024-11-19,Clothing,Jacket,9,72.06,648.54,West
+bc46e2f0-742d-4ed5-b8f1-9c6c46199239,2025-02-20,Home Appliances,Blender,4,418.61,1674.44,South
+4fefc21a-16a7-4a0b-820f-6e9b272e9332,2025-02-03,Electronics,Headphones,10,341.8,3418.0,East
+b71aa4dd-2d93-4531-874b-6bb89f628a6d,2025-01-28,Books,History,7,38.16,267.12,East
+651c2219-7955-4e19-9321-2640d6ce04d5,2025-02-08,Toys,Puzzle,10,62.38,623.8,North
+1119c8d6-3e6a-4ae1-b998-992a84f17722,2024-12-17,Electronics,Laptop,3,157.59,472.77,East
+ced02ad4-ed60-473a-afb9-f98ecffe55e3,2025-01-29,Clothing,T-Shirt,4,370.65,1482.6,East
+236d8d88-1a19-4669-bf1d-c7a307bd3648,2025-02-05,Electronics,Laptop,1,497.98,497.98,East
+67e7dcf2-3732-4d08-9060-8d944ba8e740,2024-11-02,Books,Fiction,8,5.37,42.96,North
+85aee466-129c-4be0-b4b8-7eaee811f165,2025-04-15,Books,Fiction,6,40.2,241.2,West
+c893786f-e507-4cda-bc54-6601caa33e41,2024-11-28,Books,Science,8,367.5,2940.0,West
+8f1652ec-c1bd-4f42-8931-e40908418f23,2025-01-06,Toys,Doll,6,455.26,2731.56,North
+ab397753-8766-4a31-96b9-04de60ac1bc8,2025-02-12,Electronics,Smartphone,1,373.77,373.77,East
+1b385ba8-3c71-4513-898b-0a51c388f554,2024-12-27,Toys,Lego Set,6,109.77,658.62,South
+6c03ce16-c55b-435c-a173-0ffc5bd01a08,2025-04-15,Books,Science,7,328.82,2301.74,South
+c0e23f03-e553-4863-a5bd-4519cadada29,2024-11-10,Clothing,T-Shirt,4,247.63,990.52,East
+2ea205e4-8b10-4ee5-b35d-43f1245b8a70,2024-11-06,Books,Comics,10,466.79,4667.9,North
+c4a3a85b-28cd-4523-a448-7e66e5508c26,2024-11-21,Clothing,T-Shirt,1,385.43,385.43,West
+a0380043-668e-4bf4-aecc-5f7e285afb6e,2025-04-17,Electronics,Smartphone,8,459.35,3674.8,East
+237b72c9-d0c7-4e23-8383-74ba3e192805,2025-02-09,Electronics,Headphones,1,158.08,158.08,West
+83d1b98e-bb76-4221-90d7-fa05b47d40dd,2025-04-13,Electronics,Laptop,5,390.11,1950.55,West
+b1147655-a4d2-4d13-98da-0bb838cbc46c,2024-11-19,Home Appliances,Washing Machine,5,243.33,1216.65,East
+fb73c623-80cc-46a5-8977-07b298e8c1d5,2024-12-13,Books,History,2,159.19,318.38,South
+9c889588-545c-4dc8-93d2-9ea05925076f,2025-01-15,Home Appliances,Blender,3,476.78,1430.34,South
+5a079875-5475-4a30-a376-603e2751d470,2025-02-16,Clothing,Jeans,7,195.75,1370.25,South
+eabe47dd-43f1-4ea0-b411-55a934e469e9,2025-03-25,Home Appliances,Refrigerator,1,156.4,156.4,North
+2077007e-e957-44ca-86c7-0935b7096e56,2025-04-03,Home Appliances,Microwave,4,85.2,340.8,East
+fa97f0e4-5cf8-42ba-a7bb-c7d5e3c327de,2025-01-28,Clothing,Shoes,3,472.79,1418.37,North
+41a10dc5-8960-4cc7-85c5-3e3b3ef1cafa,2025-01-16,Toys,Lego Set,2,298.19,596.38,West
+d7340633-05a5-47ab-b06f-0c2ac6018a5e,2025-03-29,Electronics,Laptop,2,175.31,350.62,South
+c2444f4b-c917-42fe-8bc1-809dde31fe2f,2025-03-24,Electronics,Camera,4,37.87,151.48,East
+200020f8-042b-4998-ba5f-4532bad5edfa,2025-03-19,Clothing,Shoes,8,246.19,1969.52,West
+1a05c05b-d212-4c92-aea0-e47c8f05d246,2025-03-26,Home Appliances,Refrigerator,8,355.17,2841.36,North
+47b38ac8-fa38-436d-ba9d-4736927f3b30,2024-10-29,Home Appliances,Microwave,1,411.63,411.63,South
+84af323f-00f8-4fb2-929b-cf4ca92c307d,2025-04-02,Toys,Lego Set,4,408.2,1632.8,South
+2d75f110-7c6d-457f-a321-75f1b034fe19,2025-01-17,Electronics,Laptop,3,282.01,846.03,South
+4e9f8327-61e0-4c74-884c-940f69db2eae,2024-12-09,Electronics,Laptop,7,234.21,1639.47,West
+60c07953-83c8-4b5b-a55a-16b2b9bfe0bc,2024-11-17,Books,Fiction,10,319.92,3199.2,South
+a4d17c94-f194-4488-8104-fd095a5aa967,2025-04-21,Books,Comics,10,334.86,3348.6,North
+950d5f35-0d0a-4fd6-b4c3-2f9029d46fb1,2025-03-12,Clothing,Shoes,10,264.08,2640.8,East
+bd08259d-ae74-46e1-a5c3-652c8c323538,2024-12-13,Clothing,Jeans,9,430.35,3873.15,East
+135ea7df-af6b-4925-80b1-036035879a1e,2025-04-17,Clothing,Jeans,3,273.89,821.67,East
+10299b29-93ac-4378-a9e8-dc424b58cc21,2025-04-21,Electronics,Headphones,7,446.44,3125.08,East
+7873a592-ac78-46e4-843f-eaa5764e7d66,2025-03-30,Home Appliances,Washing Machine,3,208.08,624.24,South
+fa41890d-c98e-45aa-a3e5-ca38f56639fb,2025-01-29,Home Appliances,Refrigerator,2,362.24,724.48,West
+3c9d28cd-37b4-4ec2-bef5-ba175a2b2a39,2025-03-30,Toys,Lego Set,1,31.94,31.94,South
+0c0691a0-5601-429e-9ca9-909c88d68c68,2025-03-18,Toys,Lego Set,5,383.7,1918.5,South
+301935d3-fef8-4139-b31c-62377b5adbc8,2025-04-05,Electronics,Camera,6,151.99,911.94,North
+dcd1f874-eaa6-44b7-a976-d6f04221cff6,2025-04-16,Toys,Lego Set,5,329.8,1649.0,East
+eeeee3e3-5795-4987-8a54-2f16f85e99d1,2024-12-10,Toys,Doll,7,15.91,111.37,North
+bdf62479-15ce-4936-829f-fa091e7069f8,2025-01-27,Books,History,8,8.76,70.08,West
+d83e3364-7115-4ed4-9b66-1c65846a2f9c,2024-12-17,Books,Comics,6,62.0,372.0,East
+6ec76752-f7fb-4de5-812a-d5374a4abce4,2024-11-13,Toys,Action Figure,3,191.39,574.17,North
+edf43a4c-e7a0-4463-a30c-93a73115e87f,2025-01-26,Clothing,Jeans,1,427.84,427.84,East
+189f3d4c-70f0-4760-ba28-baf8fac23bb6,2025-01-25,Toys,Lego Set,9,358.16,3223.44,South
+486ea56a-487d-4631-84e3-680a0fe78b46,2024-11-14,Clothing,Jeans,5,290.4,1452.0,North
+44a453b8-d66a-4793-8009-e00370e9961f,2025-03-28,Toys,Action Figure,9,171.26,1541.34,East
+35b6021b-9dd1-473c-882b-21d7b72cf9a7,2024-12-23,Toys,Doll,7,170.74,1195.18,North
+1c351e80-cd66-4f96-969b-1cfd12cc34f0,2024-12-09,Books,History,9,417.62,3758.58,South
+db2cf418-b257-4793-ab02-a2fe3bf0431c,2025-01-28,Books,History,3,251.54,754.62,East
+659fbee4-bb54-4f89-acd6-8eda90e20d28,2025-02-25,Clothing,Jacket,5,49.41,247.05,East
+59a5aa5d-53d4-48ab-8b62-efb9546f2411,2025-01-17,Books,Fiction,4,101.04,404.16,South
+8db417dd-fb12-43eb-8e15-0a04b6362021,2025-03-24,Clothing,Jacket,4,455.75,1823.0,North
+b073bf78-09fb-4543-9946-89feb66997fa,2025-04-24,Home Appliances,Refrigerator,10,196.25,1962.5,East
+4c7f7b6a-0c3e-442e-8f6c-51160630231f,2025-04-22,Books,Fiction,7,354.8,2483.6,West
+06d2235c-ef80-49ff-8c25-bf83ca7130a2,2025-02-20,Toys,Lego Set,8,120.44,963.52,West
+3d487b99-f6b6-4ffa-a438-5640e85f4b33,2024-11-13,Home Appliances,Refrigerator,7,315.15,2206.05,East
+d3795a5f-2047-4868-9173-883bc61a8b08,2025-04-06,Electronics,Camera,3,300.19,900.57,East
+bfe63809-2451-4825-a466-4ebb09bcdc61,2024-12-14,Clothing,Jacket,5,327.87,1639.35,North
+259f583d-b4a4-4e0d-affc-160a04d092e7,2025-03-31,Home Appliances,Washing Machine,7,111.43,780.01,South
+2c51c6a1-2678-48b5-abeb-18cfd21180bc,2024-12-12,Home Appliances,Blender,6,179.54,1077.24,North
+86f3bbac-9b9d-49cb-b9e3-97981585c04f,2025-03-15,Books,Fiction,8,297.61,2380.88,North
+07f61ff6-5764-40fc-8aa3-47284dae1547,2025-04-07,Home Appliances,Refrigerator,5,38.75,193.75,North
+79797924-970f-443c-a7e2-4e3acceac6e7,2025-01-20,Books,Science,3,371.1,1113.3,North
+da4ddc48-bf4e-44c2-9566-f282de5d5c44,2025-01-09,Home Appliances,Blender,5,415.84,2079.2,South
+8f85570e-8739-4087-8449-acfb0e48f399,2024-11-13,Books,Science,3,332.63,997.89,North
+75884061-e785-42cd-9946-44888e6bf45b,2024-12-12,Clothing,Jacket,7,316.13,2212.91,East
+22570056-ad8b-48d7-b92e-727eeb5c7052,2024-12-13,Toys,Lego Set,1,304.61,304.61,West
+d3775f4d-5877-4928-bf57-d375a05dd75b,2025-03-31,Electronics,Headphones,7,467.39,3271.73,North
+eed3fc63-0db9-4234-9bb2-182e99d43031,2025-03-14,Books,Fiction,5,201.14,1005.7,North
+f422b52a-0bc3-42e0-b3ae-6fb45fcb12e4,2025-03-19,Toys,Lego Set,8,458.27,3666.16,South
+3619d5eb-32f7-4f24-ac0d-f5ac7826a9e6,2024-11-05,Clothing,Jacket,3,181.84,545.52,East
+b66dbabd-9a0a-4f29-982c-6dc7260ed2a9,2025-03-30,Books,Comics,1,107.36,107.36,West
+009dd1c1-081a-4672-bd38-43cbf08c5566,2025-04-24,Electronics,Headphones,7,9.21,64.47,East
+a0124454-443c-4824-a3c1-24b41ef7bfa0,2025-02-17,Electronics,Headphones,5,15.12,75.6,West
+df930229-d39d-4fae-bd9f-86f5de7dd9aa,2025-03-14,Clothing,Shoes,10,364.98,3649.8,South
+62122c3b-b7ae-4f0c-8a77-4b4e8e8f17f8,2024-12-28,Electronics,Camera,10,455.17,4551.7,South
+6ebc3dc6-7e9f-42ca-932a-51f178f96682,2025-04-14,Toys,Lego Set,6,295.19,1771.14,North
+988d76b1-6976-4164-b255-d844d33c9ea8,2024-12-19,Toys,Doll,3,444.61,1333.83,South
+15e086c0-a85a-481c-b6ad-61e4ef5417fc,2024-11-21,Toys,Lego Set,7,155.74,1090.18,South
+6b20a5e0-118a-4509-a0b1-6ab61c54e8f9,2025-02-20,Books,History,8,498.75,3990.0,South
+2e1a8786-d042-4ce7-bdb8-d487214820b9,2024-12-12,Home Appliances,Washing Machine,3,428.09,1284.27,West
+1a4ebca4-6d0e-4f21-975f-5602939db4a3,2024-11-11,Clothing,Shoes,2,220.45,440.9,East
+615b5c20-ac05-418b-9e64-482125c22aa2,2025-01-03,Clothing,Shoes,8,138.25,1106.0,East
+1edc2380-9a02-4732-aae4-a1d89e0b080f,2025-03-18,Books,Comics,4,99.84,399.36,North
+799d8d12-8bf2-408a-9d71-b1b1e5f052a1,2025-02-22,Home Appliances,Microwave,3,499.19,1497.57,East
+a9e24144-ca9f-45ee-beaf-38584fe3bf85,2024-11-12,Books,Comics,2,406.65,813.3,West
+ae9b31e0-7363-4634-a518-b6218ef345bf,2025-01-07,Electronics,Headphones,7,288.27,2017.89,West
+fccd8562-ad11-44ac-8dd6-20f30d7fa624,2025-01-31,Toys,Puzzle,6,210.89,1265.34,South
+a4c40fb0-7380-42e2-be15-db93f04cf2df,2025-02-19,Books,History,7,313.14,2191.98,West
+b78bdab1-2dc8-4f06-a7e0-ffcaa6c77b0a,2025-01-24,Clothing,Jacket,7,284.76,1993.32,South
+d672348b-1483-479e-9c4f-63f154698c7e,2025-01-01,Clothing,Jeans,3,166.43,499.29,North
+dd5d575e-819c-4957-ad94-0e030b69898f,2025-01-23,Toys,Doll,3,203.72,611.16,South
+d1b1f388-4ebc-424b-a107-b0abb985af04,2024-11-29,Toys,Puzzle,5,108.99,544.95,West
+12e63997-4962-4dc8-a08b-a8ab36dabbae,2024-11-10,Electronics,Headphones,6,39.23,235.38,North
+9bd3990b-41ff-4de7-bebf-eea81b3ca0e1,2025-02-08,Books,Fiction,3,491.21,1473.63,North
+8f3aeb1f-3436-4d1c-8f01-ead4999df586,2024-12-25,Clothing,Shoes,7,349.49,2446.43,South
+dcf04eba-c5da-4058-84e2-78851645f2cf,2025-02-24,Books,Fiction,7,395.11,2765.77,South
+7e4cce35-84a8-4e3b-aaa5-788a0586091a,2025-02-13,Electronics,Headphones,10,148.26,1482.6,West
+1ad8d966-8630-44f3-b0e5-bd29a05fb736,2024-12-28,Home Appliances,Refrigerator,1,252.46,252.46,West
+031e7fc3-9bfe-479e-9e87-8dbc03c0ebee,2024-12-14,Books,Fiction,8,255.93,2047.44,South
+c585d674-c1f2-4fb9-ae88-d9272704223e,2025-02-28,Clothing,T-Shirt,8,57.51,460.08,South
+e5217ed7-6bfd-42bc-8a59-1dd4e303e11b,2025-01-08,Books,Comics,10,238.44,2384.4,North
+363f832e-a9d9-481d-b045-4ec00e7030dd,2024-12-17,Clothing,T-Shirt,10,84.37,843.7,North
+e5288b4c-fa86-46d1-a1f0-9509dd0dd144,2025-01-19,Electronics,Camera,2,158.18,316.36,North
+c350070e-d653-464d-999d-75ab4ef7676e,2025-03-19,Electronics,Laptop,3,53.22,159.66,West
+06136bcc-3313-4f01-a8ef-0ea81ed547d6,2025-01-23,Books,Science,3,296.78,890.34,East
+229d69de-a2ae-48a3-a3db-9f4019d9485b,2024-11-20,Toys,Doll,10,64.51,645.1,East
+808d1db5-3452-4f59-b601-9cc6a3ed9998,2025-03-02,Books,Science,7,283.58,1985.06,East
+4dfec073-4a56-411d-a938-3aaf0756d10c,2025-02-20,Home Appliances,Blender,9,253.63,2282.67,North
+fd6411f7-da69-4a97-86b6-5b01bd31afc7,2025-01-07,Books,Comics,5,356.47,1782.35,West
+57f9ae35-ce96-4f30-8c6d-1917f0516071,2025-01-18,Home Appliances,Blender,5,178.6,893.0,East
+686865da-6489-4527-9594-5d2d0128b1a2,2024-12-16,Books,Science,10,51.73,517.3,North
+7c005c23-0544-43eb-9eac-bf364f6a215b,2024-12-02,Toys,Puzzle,6,125.92,755.52,South
+971958e3-9227-4278-bf7a-46e58ffb9123,2025-03-17,Toys,Lego Set,3,434.43,1303.29,North
+12d2e96f-bc6a-485b-95a0-1072ef4dbab0,2025-04-20,Books,Comics,6,53.41,320.46,North
+4d62eb78-b791-4c17-a772-5ac65a18baf3,2024-11-14,Electronics,Smartphone,7,465.95,3261.65,West
+993b2c0e-d206-4145-9413-12c504374e5d,2025-04-10,Clothing,Shoes,3,32.52,97.56,West
+8d1f30e9-faeb-4cb3-aedd-5594093e10cc,2025-02-21,Electronics,Camera,4,436.82,1747.28,West
+3e70377c-f7f6-4267-8c25-f67dcb0a6998,2024-11-16,Books,Fiction,2,197.98,395.96,West
+b751ae70-ddc0-4d8e-84bd-80c622ca3494,2024-12-18,Clothing,Jacket,5,277.33,1386.65,North
+f1018aba-c611-4748-b2c3-adec3a84fde6,2024-12-25,Home Appliances,Refrigerator,7,12.42,86.94,North
+205df8f1-c5ba-4a60-b1c9-edc073d3f9b8,2025-01-11,Home Appliances,Washing Machine,9,52.62,473.58,South
+6406dc76-2339-4dfa-8a60-87c39658c48c,2025-01-09,Toys,Puzzle,7,227.31,1591.17,East
+90742238-f187-40bd-9883-4d44a0957b1c,2025-01-29,Home Appliances,Microwave,1,204.6,204.6,South
+621c9968-cb34-4b1b-abe9-8cd8156ab387,2024-11-13,Electronics,Camera,8,388.58,3108.64,West
+264a27e8-a09e-415e-9cab-5c1a185ef4ee,2025-01-24,Home Appliances,Microwave,9,313.41,2820.69,North
+9cba3212-7ee4-4f17-8356-a0d0ccd54d46,2025-02-18,Toys,Action Figure,4,49.79,199.16,West
+cb6bc8b8-a859-45c7-8e7a-1ad4d8706441,2025-02-15,Electronics,Camera,7,233.08,1631.56,South
+fb91d9bc-c688-4640-9b19-63b44a587061,2025-01-18,Books,History,9,285.82,2572.38,South
+b0320f00-3382-4d1e-bbdf-23e99fa39f45,2025-01-18,Books,Science,5,195.99,979.95,South
+7fed51a1-ceba-4545-ad6f-dac740e54db1,2024-12-27,Toys,Action Figure,9,443.56,3992.04,West
+8e767459-81ce-4b16-9f0d-3e09eb978fe7,2024-12-04,Books,History,7,472.24,3305.68,North
+074b2bbe-0582-48bf-8f0b-c35c5fb4a1be,2024-12-12,Toys,Lego Set,10,487.62,4876.2,West
+12cfde73-bd30-429d-a21c-6e9fe0d60656,2025-04-09,Clothing,T-Shirt,9,254.77,2292.93,West
+1ced11d7-3ae3-4407-9525-e5056575b498,2025-04-25,Toys,Lego Set,6,421.42,2528.52,West
+7df1baf7-a1d2-4365-aa09-0e4a99b27e1b,2025-01-05,Electronics,Headphones,4,490.48,1961.92,East
+e8c1a043-2e02-492f-8cdd-32e0175ddc19,2025-01-13,Books,Fiction,9,265.53,2389.77,South
+aea75b3d-f14b-4f98-8dab-dbdf30db8b3b,2025-02-26,Home Appliances,Washing Machine,6,36.26,217.56,East
+22985c30-fa26-4396-bfcc-c771f3ec9b60,2025-03-07,Toys,Lego Set,2,13.94,27.88,East
+3a326613-1da2-4932-b784-073b5e1e77be,2025-02-05,Electronics,Laptop,1,495.23,495.23,South
+2156d25b-64f9-43a0-98a1-18199003918b,2024-11-01,Clothing,T-Shirt,8,204.32,1634.56,East
+62a228b0-6df7-4468-bbe6-6dffcffef780,2025-03-18,Toys,Action Figure,9,8.56,77.04,East
+6a73cba9-9aca-480c-9f57-e7d8bb2bfd27,2024-11-04,Clothing,Shoes,10,228.17,2281.7,North
+820e8d80-ab0e-4b1a-89c3-61c36150b602,2025-03-17,Electronics,Laptop,1,356.85,356.85,North
+66272a4c-c0f6-46e2-999f-d793502aae4a,2025-03-21,Toys,Puzzle,5,29.72,148.6,East
+751331f9-0f67-4c9d-89d8-ef9ea83b3caa,2024-12-20,Toys,Puzzle,2,473.16,946.32,East
+e13d4b83-2bde-48c0-894d-3e5aab7eac80,2025-03-21,Electronics,Smartphone,5,478.13,2390.65,East
+824f1024-7d62-4183-8c09-78d5b91068c0,2025-02-03,Books,History,7,389.98,2729.86,East
+5a1a25b1-96a1-46b1-bf87-ad3603f363b7,2025-04-12,Clothing,Shoes,6,24.51,147.06,North
+ddd2c716-7303-49ec-bc82-1a5b320ea0a2,2025-01-20,Clothing,T-Shirt,4,98.13,392.52,East
+763495a5-6444-4e3a-b7d7-c68c23ba7cb0,2024-11-27,Books,Science,7,476.28,3333.96,West
+7e7fe6c7-4618-45d2-bef5-5338bf43706f,2024-12-17,Clothing,Jacket,1,479.35,479.35,East
+ca2cbbe8-b69d-4afb-83c9-f319c431a335,2025-03-14,Home Appliances,Blender,7,263.14,1841.98,South
+ef0fa8ed-6399-4b31-973e-06aeef0be169,2025-01-14,Clothing,T-Shirt,8,182.29,1458.32,South
+4fe9e303-45ca-4342-9704-94a63d75a6e5,2025-01-30,Books,Comics,2,65.71,131.42,West
+c5b0be35-a25c-4c81-9c4b-ca4f560a9c7d,2025-04-20,Home Appliances,Washing Machine,4,213.52,854.08,West
+a3e164d9-3863-4521-ae45-fb19bb84fc24,2025-04-12,Electronics,Laptop,8,390.7,3125.6,North
+87860329-050e-4412-9ec7-86dd42d224b3,2024-12-15,Toys,Action Figure,2,260.71,521.42,West
+7fe415d0-e6b8-4c54-b0a8-9ccc2ca97635,2025-04-05,Books,History,10,434.31,4343.1,East
+ec080d60-098a-4147-b619-716d40922c11,2024-10-29,Home Appliances,Washing Machine,6,476.4,2858.4,North
+ea5a1e9a-3be8-45f9-b519-3f91436ee1e3,2024-11-01,Clothing,Jacket,1,336.58,336.58,West
+9b534f14-9bc1-4bc3-a569-4e6e8e306c0c,2025-01-26,Clothing,T-Shirt,3,273.55,820.65,South
+0259b262-c515-4df4-a166-29e7a5fa5b12,2025-01-06,Toys,Action Figure,1,85.9,85.9,North
+38b61e4e-f053-44c4-bf8f-7b0ce3676ff5,2025-02-10,Electronics,Headphones,10,90.56,905.6,West
+cb1a5198-5000-429d-9528-35218420b6d4,2025-02-04,Home Appliances,Washing Machine,5,22.91,114.55,South
+15f95dd9-ba7a-4344-a254-b37e54c83027,2025-03-09,Electronics,Smartphone,6,348.77,2092.62,North
+42b9afa5-84ec-423d-83a6-6a20f2efe699,2025-01-15,Books,Comics,1,393.62,393.62,South
+65cf4431-1064-4c9c-8115-0cfecfc02663,2024-11-06,Clothing,Jacket,9,31.39,282.51,West
+523862e3-f345-46f3-ada0-a3ab758dffec,2025-03-21,Clothing,Shoes,5,332.86,1664.3,West
+b859449a-d0cd-41d8-aeb4-fd58f1121f69,2025-04-14,Clothing,Shoes,4,167.31,669.24,East
+7130af11-8060-4a00-8372-068e6e9f153a,2025-01-19,Home Appliances,Refrigerator,7,139.4,975.8,West
+64af25f8-1490-40ee-b238-4fe925e43fcc,2024-12-18,Electronics,Laptop,4,185.88,743.52,North
+fd8566a3-7f36-46f3-897e-e79478787e8b,2025-03-27,Electronics,Smartphone,1,450.93,450.93,South
+737974e0-0d94-4395-a6fa-35c81c732599,2025-04-02,Electronics,Laptop,5,298.15,1490.75,West
+d7775715-5265-43ee-b33b-46901d0493b6,2025-03-14,Clothing,T-Shirt,2,87.31,174.62,South
+b63ee7af-2e2e-40b0-aabf-cbb4f558090d,2025-01-29,Books,Science,9,434.58,3911.22,South
+709acb73-3198-4c9f-93c7-f4f39c85776c,2024-11-03,Home Appliances,Refrigerator,1,97.61,97.61,North
+5b34e28e-c59b-4b06-ba36-d1922f66b172,2025-01-04,Home Appliances,Refrigerator,5,273.06,1365.3,West
+991f2144-e407-4e16-9e0a-f75dd20bf02b,2025-02-11,Electronics,Camera,7,123.62,865.34,North
+2f6df0e7-1036-4624-b19a-b5fde81753ab,2025-01-06,Books,Comics,10,318.92,3189.2,East
+57aa6a05-eb34-45ba-84bb-f93c3530311a,2025-03-27,Home Appliances,Microwave,7,187.51,1312.57,North
+1a0d8fee-e312-46f2-954b-28751c2ae9d0,2024-11-06,Electronics,Headphones,1,450.64,450.64,West
+976fa00d-139f-4952-98c0-5d103c1deacc,2024-11-15,Books,Fiction,4,369.08,1476.32,North
+c69577ad-ded8-48b4-90d3-2835483e7d93,2025-01-18,Clothing,T-Shirt,6,5.63,33.78,North
+bff49bb1-5936-4626-88c9-bb03811c8354,2025-01-10,Electronics,Smartphone,2,206.25,412.5,South
+4f864398-3e13-4402-bab5-71aad7892076,2024-12-02,Clothing,Shoes,8,266.16,2129.28,West
+b6af9397-bfdf-4171-aa89-d4a91e25e131,2025-03-31,Books,Science,3,87.44,262.32,South
+1486b35a-dae4-4fe8-835b-2296976b19b0,2025-04-21,Electronics,Camera,8,344.41,2755.28,South
+aa3c55bf-bf68-4681-a6e3-3459f45c4a06,2025-03-07,Toys,Doll,5,137.62,688.1,East
+22016840-47a4-4050-9bac-d2ea1352e3bf,2025-03-24,Home Appliances,Blender,5,62.74,313.7,West
+c63310fb-5011-4d4d-885b-e828ef6b9e9b,2024-12-17,Electronics,Laptop,9,384.55,3460.95,North
+104810e9-60c7-40b9-8f45-921da2de9560,2024-12-16,Clothing,T-Shirt,8,39.35,314.8,West
+228f72f2-bb2a-467f-8e90-910d1ed8a342,2024-12-25,Clothing,Jacket,9,124.0,1116.0,East
+91cdaeb2-8645-4207-ba7e-f4f27bbd063e,2024-11-19,Toys,Doll,9,199.01,1791.09,South
+7224bcd3-39ca-4bcc-b7c4-ba0ee2847edf,2024-11-24,Electronics,Headphones,4,287.62,1150.48,East
+76846dd0-6c97-4900-a287-0019b8dce425,2024-12-30,Clothing,Jeans,2,16.25,32.5,East
+5780958e-7255-472a-b27b-a96acb30ed19,2025-02-16,Books,Fiction,8,44.95,359.6,West
+4b9d72da-5c9d-4899-aada-17addbf450c9,2025-02-22,Toys,Action Figure,9,109.49,985.41,South
+3bf1968d-51ea-42ff-a71a-7b2479366776,2024-10-31,Toys,Action Figure,9,165.7,1491.3,South
+2f26ee66-1312-4510-a8b0-4bbd440d905d,2025-04-19,Home Appliances,Refrigerator,6,248.33,1489.98,West
+2f8d51c8-968f-4708-98cc-0cd8fa37c99e,2025-02-25,Home Appliances,Washing Machine,3,166.18,498.54,South
+cddef1ce-89c7-4e6c-a325-f96db396cbb7,2025-02-23,Electronics,Laptop,7,378.21,2647.47,South
+6ee24335-ab9d-4f47-a8cf-91d3ace92f86,2024-11-18,Electronics,Smartphone,9,81.58,734.22,West
+0195c742-bb1a-431c-890a-1fd917d679ee,2024-11-18,Home Appliances,Washing Machine,2,161.77,323.54,North
+23b2e880-91ff-492f-86c3-fd7854b40166,2025-03-28,Toys,Doll,10,279.37,2793.7,West
+87982e0f-50af-4aba-805e-207149ebcaa1,2024-12-20,Home Appliances,Refrigerator,1,129.14,129.14,North
+36e16703-df26-4008-a431-b3fd06b3c0b9,2025-03-24,Books,Science,1,331.94,331.94,South
+0e111036-512e-4721-bc3c-dfa19625b75c,2025-02-15,Toys,Lego Set,7,272.91,1910.37,East
+eb58bb2e-9b37-4fae-9624-b09474415543,2024-11-06,Books,Science,10,312.48,3124.8,West
+44c3d3ea-6c66-451a-a640-575666935941,2024-11-09,Clothing,Jacket,9,156.23,1406.07,South
+11e68abf-da63-42a8-a9e1-80ac65371a2b,2024-11-27,Books,Fiction,4,273.8,1095.2,South
+474337b3-122b-4bad-a91c-a77abbf58c9c,2024-11-12,Home Appliances,Microwave,2,170.95,341.9,West
+6801689e-75b9-43a2-9f18-d9b567b7ebf5,2025-04-06,Electronics,Headphones,9,63.2,568.8,South
+d416dce2-e0f3-483e-89e6-38c9969665fa,2024-11-03,Home Appliances,Refrigerator,10,244.01,2440.1,East
+b265e726-4d29-43ea-99af-d108a6dd906b,2024-12-25,Clothing,T-Shirt,3,6.85,20.55,North
+7bdc7c5b-e0ce-426f-873d-8a4c5b14536b,2025-04-27,Electronics,Smartphone,9,37.9,341.1,West
+adab181c-ecde-4146-82f8-bf62cab5f8ed,2024-11-04,Clothing,T-Shirt,8,228.63,1829.04,North
+0d93a05c-a6a0-4df3-8f86-1dc8ecfe5875,2025-03-14,Toys,Lego Set,3,15.44,46.32,North
+d7daa01d-2977-45b1-a2ba-0a61c7145236,2024-12-24,Books,Comics,10,245.42,2454.2,West
+15ecb20d-4a37-4048-a2f9-3aa8d403fe5f,2025-02-23,Home Appliances,Microwave,7,173.23,1212.61,East
+08d0a9f5-ddba-4544-87b5-76887079a49b,2025-04-20,Home Appliances,Washing Machine,6,233.15,1398.9,West
+919a5c9b-7cf5-493b-82ca-9383874abd48,2025-01-03,Toys,Lego Set,4,216.26,865.04,West
+fd9ccbc1-a948-4b3a-97c1-1f12d169340c,2024-11-01,Clothing,Jeans,3,82.02,246.06,East
+706de8c3-c66b-4441-9a94-aa6d9e60507f,2025-03-18,Books,History,4,139.91,559.64,North
+92f0758e-fefa-40de-8815-8aba974c7958,2025-02-03,Toys,Action Figure,3,231.6,694.8,North
+e90abd78-0635-4eaa-8247-9971e237c652,2025-04-12,Clothing,Jacket,4,421.73,1686.92,South
+dc68f959-4ed4-4d48-af0f-98f7f69e5a64,2025-03-25,Electronics,Smartphone,4,38.37,153.48,South
+63dfb7d9-407b-4015-a962-df6e19b2e83d,2025-03-03,Books,History,10,243.78,2437.8,South
+e146858f-3083-4dff-9a04-f6ee7ad13250,2025-01-02,Electronics,Laptop,5,54.12,270.6,South
+9b2c12c2-198e-4558-b432-0d0af1f975ed,2025-01-11,Toys,Lego Set,7,357.19,2500.33,North
+28c1232e-95fe-436a-a3ce-3ac0bf7a48dd,2025-02-06,Electronics,Camera,1,488.86,488.86,South
+03f263e5-7e1c-4a14-85e6-94b4a731ffa1,2024-11-30,Home Appliances,Refrigerator,7,198.65,1390.55,West
+b5d5bead-b260-4450-a23d-fc1110d87fb2,2025-02-16,Clothing,T-Shirt,2,276.87,553.74,East
+9ce68269-7497-4aae-a16a-9cf4f4f0de68,2024-10-30,Toys,Action Figure,3,321.21,963.63,South
+66704960-4ddc-4692-a9b7-c788dccf70c9,2024-11-07,Clothing,T-Shirt,4,424.12,1696.48,East
+775c6c49-cdcb-417f-b9b2-95b23b7ea8d4,2024-12-23,Books,History,9,186.64,1679.76,South
+243fb49c-37fc-4cd6-a297-b0467c090257,2024-11-06,Clothing,Jacket,7,388.86,2722.02,West
+f16b9cfa-b7ae-409b-9608-980133adfb66,2024-11-27,Clothing,Jacket,5,223.95,1119.75,North
+4cbf3e2b-61d1-4f0c-aa7a-b272ace0c34e,2025-02-25,Books,Comics,10,178.06,1780.6,North
+7ec6f342-9541-4cd5-9d27-f3038e56aa12,2025-01-30,Clothing,Shoes,2,157.17,314.34,East
+5a47c0c5-aee9-4aa1-8f0c-33db968af12c,2025-02-25,Toys,Doll,7,303.02,2121.14,South
+3a30c4dc-37bc-40f1-9969-832a4888f8d9,2025-03-17,Books,Comics,1,170.14,170.14,South
+3390624c-5a29-48ca-af08-9ac63a07073b,2024-12-11,Toys,Action Figure,4,282.6,1130.4,North
+d0b9685a-72df-4f38-8240-203315d25e47,2025-01-24,Books,History,2,434.29,868.58,West
+18f887c2-5805-4961-be6d-d8800fa4a512,2024-11-15,Toys,Puzzle,6,201.83,1210.98,West
+eb593cc0-d859-46ca-ace2-b0e074169ee0,2025-02-01,Toys,Action Figure,3,153.8,461.4,East
+74300925-ac9e-4ac4-b8a7-36a22446e296,2025-01-01,Toys,Doll,4,223.34,893.36,East
+2471ee60-d08e-4870-b1c9-7ead12f1ba72,2025-01-20,Books,History,9,237.73,2139.57,East
+7698b998-0b28-404c-8cda-cd26aaf72e0c,2024-12-15,Electronics,Headphones,4,112.64,450.56,South
+5e09e9d2-9411-4298-a659-c24762062d2d,2025-03-29,Books,Science,5,252.05,1260.25,West
+609a2f14-4912-461e-bb77-07d26b4d3b62,2025-03-14,Clothing,T-Shirt,1,229.09,229.09,South
+5dd60b74-4ffb-4e77-bd69-dd2a13335595,2025-01-06,Books,Science,8,476.37,3810.96,North
+67126117-0929-4bf7-9fda-a33005a73fff,2025-04-27,Electronics,Smartphone,2,499.4,998.8,East
+6276cfb5-ade8-4e4e-aeaf-a24e1cb77a06,2025-01-04,Books,Fiction,2,221.7,443.4,East
+f84b01e1-d323-4c7c-9ac6-ab1fd6f568ce,2024-12-24,Clothing,Shoes,3,231.35,694.05,North
+8756f088-5f0f-450f-a2f1-366e2b0209af,2025-03-15,Toys,Doll,7,55.02,385.14,North
+48594821-9451-439b-8505-e250b19d6d3c,2025-02-05,Clothing,Jacket,8,361.45,2891.6,East
+5078e882-4f42-4912-9ec3-d15552297518,2024-12-03,Clothing,Jacket,2,57.82,115.64,West
+1b33ff1d-cadc-41ae-a4bc-ab5b1658dfb9,2024-12-03,Electronics,Headphones,1,63.4,63.4,West
+662d50bd-e70d-4b43-a40e-feef987715ff,2024-12-04,Books,Fiction,4,460.82,1843.28,West
+a7560176-9ec7-4bf1-b54f-63bf47ddb2e3,2024-11-30,Electronics,Headphones,10,289.51,2895.1,North
+504fa0bf-f9b9-4bf5-88bf-d05d83bd4656,2025-01-04,Home Appliances,Washing Machine,10,383.22,3832.2,South
+c68f5b8e-8403-4d74-a238-cc25aa025a85,2025-03-01,Books,Science,8,384.66,3077.28,South
+a01b27e8-b93b-4301-8fc3-e5f933b4f1fa,2025-03-09,Electronics,Camera,1,194.91,194.91,West
+3cf6e7b4-cbea-4d75-b5a9-43fb90b7caf4,2024-12-12,Books,History,2,323.91,647.82,East
+bedc34c0-390b-4994-bf68-74b31892a122,2025-02-03,Books,Fiction,2,412.81,825.62,East
+f25d06c1-91e2-4f69-955e-23bc6a770991,2025-03-13,Clothing,Shoes,2,253.04,506.08,East
+fe60f699-8548-49ea-be9c-39b028dce845,2025-02-18,Books,Fiction,2,460.79,921.58,East
+fe584d56-9e40-4ddc-9eda-a8f3a2fffbc8,2025-01-20,Home Appliances,Microwave,3,62.89,188.67,East
+f7b86461-d7f8-47a6-8bf5-2021a5cf6e48,2025-02-01,Books,History,9,56.09,504.81,East
+a003502c-cd1a-4f25-881f-d1771ec76c59,2025-04-13,Electronics,Headphones,8,465.52,3724.16,East
+366e0f73-6aed-4523-a973-7da880cb0723,2025-03-14,Electronics,Laptop,10,100.31,1003.1,North
+12569530-c2dd-44ad-95c6-0b2a56c9f2e0,2024-11-27,Clothing,T-Shirt,5,404.66,2023.3,East
+ae6ab01c-0394-498e-b283-42d0f4032481,2024-11-30,Electronics,Headphones,6,85.59,513.54,East
+a7f3e653-7f80-4305-9a65-9d9270d8fd12,2025-03-22,Home Appliances,Washing Machine,2,23.88,47.76,South
+2a5de08b-9e2f-46be-82ea-45d84e450591,2025-01-18,Electronics,Camera,5,411.01,2055.05,South
+c1becbfc-ca6e-42ea-b56a-fafab1dc8938,2025-04-25,Electronics,Headphones,5,42.58,212.9,East
+4a6c2259-eb4a-4d17-83b1-7f0e7b5bdb8b,2025-04-16,Toys,Puzzle,10,386.46,3864.6,West
+807f6bf4-ea32-4d1e-a48a-380e0e375b55,2024-12-21,Home Appliances,Blender,4,214.65,858.6,North
+a1715816-7668-49f3-88fe-1f9ebf64ba1e,2025-04-05,Toys,Doll,1,307.86,307.86,North
+e667e83f-b8c0-440f-a896-5cd78202a09d,2025-04-15,Books,Fiction,7,254.94,1784.58,South
+3503d2e0-d288-4205-a566-74caca84610d,2025-02-01,Clothing,T-Shirt,1,344.56,344.56,West
+2da6bcb8-35b0-4857-be47-091d79de80ae,2025-03-25,Clothing,Jacket,10,214.78,2147.8,East
+af05d235-0cbe-4e23-8b30-311fddee7e42,2025-04-13,Clothing,Shoes,8,149.45,1195.6,North
+58b2e49d-a0ff-4bdc-b177-160bbb1dbd4d,2025-01-15,Home Appliances,Washing Machine,7,497.46,3482.22,East
+b2f937a8-1874-4718-92a7-88ede0f7fd5a,2025-01-12,Toys,Lego Set,2,483.28,966.56,South
+16e942a3-3b18-41b7-8c82-f58936d48f1a,2025-01-25,Toys,Puzzle,3,166.47,499.41,North
+e314aebc-56a5-450f-a972-11a0ee924107,2025-04-21,Electronics,Headphones,7,417.57,2922.99,West
+cf649f3c-9be5-4da9-a8bf-949554315265,2025-02-22,Clothing,Jacket,10,283.51,2835.1,North
+734a3525-4948-4ee4-aef3-64b105e033f2,2025-03-02,Electronics,Camera,8,57.83,462.64,South
+4f5c3a3f-2b40-49c4-bf22-70c011f904e6,2025-01-13,Clothing,Jacket,5,266.17,1330.85,East
+2d005e64-c7c0-4848-b39b-d4ed0838fa02,2025-04-27,Electronics,Smartphone,9,113.68,1023.12,East
+069173e8-0ed0-4bb4-a6c1-0bd9984ef953,2024-11-12,Books,History,4,173.21,692.84,North
+a4a52897-3296-4197-aaca-9ad4d4a5bc7e,2024-12-14,Home Appliances,Refrigerator,8,35.35,282.8,West
+2dd7f50c-4d96-4219-a5d3-fbd2411938c4,2025-02-19,Home Appliances,Blender,10,121.14,1211.4,South
+4fec5aaa-1049-4f76-85ea-c24ca1e1e134,2025-03-20,Home Appliances,Blender,1,367.65,367.65,West
+da16f3f6-bc97-4a15-ab49-0ce0456eb660,2025-04-01,Electronics,Smartphone,1,330.08,330.08,North
+637a12e6-bf55-497d-9cfc-23644a15e1f8,2024-11-24,Home Appliances,Refrigerator,6,482.28,2893.68,South
+bf9b4a94-5097-4250-b6c4-1981475fa6df,2025-04-03,Home Appliances,Blender,1,369.57,369.57,West
+89b41ecd-e193-43ab-a3af-6d973012fd85,2024-12-10,Toys,Lego Set,2,450.8,901.6,West
+03472d9e-8abe-4b8b-bff3-177ff8887565,2025-04-12,Home Appliances,Microwave,3,171.9,515.7,East
+ff6dccc7-6110-4971-9c81-0c006d983263,2025-01-18,Books,Comics,9,25.21,226.89,West
+54b40cca-767c-451e-bdd6-20f3c12b0bf8,2025-03-19,Clothing,T-Shirt,6,478.17,2869.02,North
+c3cf557c-dece-4419-a1e8-26a341fc4ce9,2025-04-19,Clothing,Jacket,8,162.95,1303.6,West
+0eb5fb97-a0d4-4ed1-aee4-53232eddafb6,2025-01-31,Toys,Action Figure,3,365.02,1095.06,North
+d0b79ced-c224-4dba-a291-d6c16c4a9413,2025-04-03,Electronics,Camera,9,426.36,3837.24,East
+f28802ba-b723-4a6d-b001-db55a19101f1,2025-04-21,Books,History,3,426.57,1279.71,North
+a62aa354-2342-4f6c-976e-d9af6adfa54b,2025-04-14,Electronics,Camera,8,80.73,645.84,North
+dc988809-6d02-42ed-9a55-f159733688cf,2024-12-20,Electronics,Smartphone,9,455.01,4095.09,North
+77b6bc10-75d0-4a38-b663-a80291ee22d4,2025-01-03,Electronics,Smartphone,2,191.52,383.04,West
+df61238f-316e-4b45-a474-d87e46fa32e9,2025-03-15,Toys,Action Figure,8,164.36,1314.88,North
+9eab0aec-2a86-4e47-84c8-f5ebc9db3a54,2025-04-14,Books,History,5,321.53,1607.65,West
+cd40b50e-f797-4d6c-9001-52086b09790f,2025-03-04,Toys,Lego Set,9,25.78,232.02,North
+d894492c-641e-4a86-9a8a-b4fd5b4d3e7f,2025-02-05,Toys,Doll,2,125.46,250.92,North
+6510b158-d495-4617-960b-c5ebe050e167,2025-02-19,Books,Comics,2,335.57,671.14,East
+f354fb56-804b-4e19-9c4b-362a40639301,2025-02-28,Books,Science,6,409.85,2459.1,North
+b37ad203-1211-4227-a8e6-3c9eb4142790,2024-11-05,Books,Science,2,309.97,619.94,West
+ed20ee40-77cd-4eb6-b8fe-cb12ffd6e618,2025-03-10,Home Appliances,Refrigerator,7,290.13,2030.91,West
+fcb3759b-cad1-4ec4-ba76-e8b1e81b420e,2025-04-10,Toys,Doll,6,291.34,1748.04,East
+1f299298-4e20-409c-a970-4c82887cd868,2024-11-13,Toys,Lego Set,6,153.06,918.36,South
+5b7bbffc-51fb-4343-b161-ad5c70ab4c93,2025-01-24,Clothing,Shoes,4,301.56,1206.24,North
+f637d8cd-b591-4d8f-9e26-667e2cfbddba,2024-12-17,Electronics,Camera,3,435.55,1306.65,North
+4710862a-9200-4852-902a-b34b4d37b298,2024-11-14,Books,Comics,5,119.83,599.15,West
+9a1783e1-2ebe-49e8-b72d-a5720b3b47a3,2025-01-31,Clothing,Jeans,3,127.51,382.53,North
+e06dd7ca-7c8c-431f-a31d-7b613960df04,2025-01-29,Toys,Lego Set,8,323.35,2586.8,South
+f45fd2cf-590a-417b-b8ff-5f54ca60c23c,2025-02-12,Home Appliances,Microwave,2,156.11,312.22,East
+6c5f3237-1fbc-4e52-9805-09ff0e70df74,2024-10-30,Books,Science,4,465.22,1860.88,West
+a55d3016-b7d8-41fb-8836-de2978a283dc,2025-02-26,Books,Fiction,6,117.45,704.7,South
+2e7c7896-96c8-4eff-a449-c63b63cda967,2024-12-03,Clothing,T-Shirt,5,392.51,1962.55,North
+9fbc6cc3-72c4-4cf2-82fe-2e98b07eef16,2025-02-24,Clothing,T-Shirt,10,469.86,4698.6,West
+f91a1540-982b-4e3a-9e67-1743f6e824f7,2025-04-02,Books,Science,3,9.14,27.42,North
+8c5158f1-0c69-401a-913a-1860f925f946,2024-12-30,Books,History,4,28.69,114.76,West
+1eb9443a-8ed3-419a-9bae-d6bd536ad74b,2025-04-16,Home Appliances,Blender,1,46.53,46.53,West
+f5db3239-ccd7-4334-81c7-bbe80d639c02,2025-04-23,Electronics,Camera,1,270.85,270.85,West
+8633a38a-359e-4f82-b742-51038b2af930,2025-01-04,Toys,Doll,4,372.67,1490.68,East
+48ae7245-5397-4197-8fc8-27037a9ee333,2025-02-08,Home Appliances,Blender,6,85.88,515.28,South
+9f478a8f-d7ee-418b-8b41-2eca27213162,2025-03-26,Home Appliances,Refrigerator,9,104.73,942.57,East
+6af4c0ee-cec3-46a9-a369-6c8b56a8b64d,2025-04-08,Books,Comics,1,482.19,482.19,South
+816a39b2-0b66-4fc5-ad89-db4ce5d12e3d,2025-02-03,Books,Science,8,6.99,55.92,East
+1bc73cb3-15d8-403b-bc2f-020a02e60852,2025-04-15,Home Appliances,Blender,3,368.79,1106.37,North
+e157c2a0-d218-48b6-afda-7cac653f0c0b,2024-11-14,Home Appliances,Refrigerator,4,446.95,1787.8,East
+8db9a5a2-762b-481d-adbf-5064812168bd,2025-01-12,Home Appliances,Blender,1,201.71,201.71,East
+97e8efe0-64f3-4e56-8c1a-b73218ba8049,2024-11-17,Toys,Action Figure,6,347.46,2084.76,East
+409e5cc0-76d3-447a-83fb-e9cc0314fd13,2024-11-06,Clothing,T-Shirt,6,457.65,2745.9,West
+4a2811e0-9c4a-4905-9c4b-ddead4f0dce5,2024-11-15,Clothing,Jeans,9,181.69,1635.21,East
+334a5125-c0d0-49f2-8548-0677454c328d,2025-01-21,Books,History,4,246.03,984.12,South
+a735bcb5-20c6-4e7e-8654-3abda680863f,2025-03-10,Clothing,T-Shirt,9,322.05,2898.45,East
+556e086a-28a0-4c2c-862b-be806b11ef1a,2025-02-11,Electronics,Smartphone,7,31.69,221.83,South
+14e1010e-109d-486b-8643-21595047f9d7,2024-11-28,Toys,Lego Set,8,43.55,348.4,North
+bc975385-7863-4bdd-9fcb-c10279b4b571,2025-02-19,Toys,Action Figure,3,383.93,1151.79,East
+d0647e8b-d95b-480d-b2a4-f239378b004b,2024-12-10,Home Appliances,Refrigerator,3,101.86,305.58,North
+3f7cbd79-b3e7-4167-90e2-deb4e99d8de5,2024-11-01,Home Appliances,Refrigerator,3,164.33,492.99,North
+f4faa663-6ec0-4c05-a43a-91d3413c5195,2025-02-28,Clothing,Jacket,9,182.62,1643.58,South
+d4abbfdc-d877-4cf1-96d5-ab17cc274806,2024-12-29,Home Appliances,Blender,5,235.62,1178.1,North
+6d536446-41f6-400e-98bb-d8b93bc9d952,2025-02-06,Electronics,Headphones,10,6.45,64.5,West
+faa52078-7ebe-413a-b959-559868876cba,2025-03-18,Electronics,Laptop,5,327.29,1636.45,West
+b879f2bb-d966-4fa4-be80-00faff2d8a05,2025-03-23,Electronics,Smartphone,8,445.56,3564.48,East
+a7144631-8f06-480a-ac49-8b3eb7b593cc,2024-11-28,Clothing,Jacket,5,366.35,1831.75,North
+e751a990-d856-4523-b358-2104298619fc,2025-03-27,Toys,Puzzle,7,403.42,2823.94,West
+c58e99bb-2c2e-4967-a193-bc58aee531a7,2025-03-14,Toys,Action Figure,2,71.96,143.92,South
+358cd9ee-1b47-4c3e-922d-e8d25cae231c,2025-04-29,Books,History,6,63.51,381.06,South
+c516fe5d-ca24-4357-8431-f3c91a0e372d,2024-11-17,Clothing,Jacket,6,449.07,2694.42,East
+fd4b10ff-9025-424f-8618-42ff8d95f843,2025-02-24,Books,History,5,481.04,2405.2,South
+31395af5-7ec2-4d4e-8ddd-c0d747ae035a,2024-12-09,Clothing,Shoes,5,361.45,1807.25,South
+7926d8ea-96a5-4a49-94af-4543127dd58b,2025-02-28,Electronics,Laptop,4,399.25,1597.0,East
+6cdebb97-7d06-4021-9c04-9a5c0c1af7de,2025-01-12,Electronics,Camera,5,388.65,1943.25,East
+e1e018e0-a629-4d71-9e62-ef8d3b19c716,2025-04-01,Toys,Lego Set,10,411.82,4118.2,North
+ef52984b-47bc-4913-bb81-460e9a48e0ad,2025-04-13,Home Appliances,Refrigerator,5,44.13,220.65,West
+2ece4551-32a7-4ca2-b35d-3e63dbbeef8e,2025-01-24,Toys,Puzzle,8,92.57,740.56,South
+2faac61a-89e5-45dc-9453-aaa52131b6cd,2024-12-15,Electronics,Smartphone,5,323.55,1617.75,South
+280cb4dc-0d4b-4997-85ca-6152ca59f34e,2024-11-20,Clothing,Jeans,7,163.84,1146.88,South
+7e6f3d2e-b245-483e-89b7-f2ad8f00b034,2025-04-02,Books,History,1,191.2,191.2,South
+51e2f9dd-fb1b-447d-84cb-548a6b4cb9db,2025-02-16,Clothing,Shoes,10,452.26,4522.6,West
+8837994e-445c-47ef-a9a2-ea39acc05936,2025-02-02,Books,Comics,7,452.59,3168.13,North
